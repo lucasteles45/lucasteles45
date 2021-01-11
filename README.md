@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Lucas! :D
 
+[![Github Badge](https://github.com/lucasteles45/lucasteles45)
+[![Linkedin Badge](https://www.linkedin.com/in/lucas-silva-teles-0071881bb/)
 <!--
 **lucasteles45/lucasteles45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me
+I'm a {frontend} developer and technical instructor at [@treinaweb](https://www.impacta.edu.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
+- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
+- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+
+- [CV]() 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
+- [Blog]() ✍🏼 - I'm write about many things.
+- [Website]() 💻 - Working on it.
